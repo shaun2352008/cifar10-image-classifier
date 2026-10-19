@@ -43,7 +43,7 @@ The dataset downloads automatically the first time you run the script (about 170
 
 ## Model Architecture
 
-The model (`SmallCNN` in `train.py`) has two parts.
+The model (`SmallCNN` in `[train.py](train.py)`) has two parts.
 
 **Feature extractor**
 | Layer | Output shape |
