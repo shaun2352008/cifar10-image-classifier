@@ -111,7 +111,7 @@ Final test accuracy: 72.1%
 
 Confusion matrix:
 
-![Confusion matrix](confusion_matrix.png)
+confusion_matrix (2).png
 
 **What the results show:** [Write 2 to 3 sentences in your own words. For example: which classes the model gets right most often, and which pairs it confuses, such as cats and dogs. Look at your matrix and describe what you actually see.]
 
